@@ -1,4 +1,4 @@
- Hi there🖐️
+ <h1 align='center' text-size='25px'>Hi there🖐️</h1>
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Java and DSA
