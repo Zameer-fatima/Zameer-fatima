@@ -7,6 +7,7 @@
 - 📫 How to reach me: 
  
   [LinkedIn](https://www.linkedin.com/in/zameer-fatima-24b0451b6)
+  
   [Gmail](zameerfatima1908@gmail.com)
                     
  [![@zameer_19's Holopin board](https://holopin.io/api/user/board?user=zameer_19)](https://holopin.io/@zameer_19)
