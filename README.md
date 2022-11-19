@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zameer Fatima</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full stack developer from India</h3>
 <p align = "center">
 <img  alt="coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 </p>
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **React and Android development**
+- 🌱 I’m currently learning **React and NodeJs**
 
 - 💬 Ask me about **Web Development**
 
