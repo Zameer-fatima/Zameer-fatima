@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **zameerfatima1908@gmail.com**
 
