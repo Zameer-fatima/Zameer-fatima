@@ -5,11 +5,11 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zameer-fatima&label=Profile%20views&color=0e75b6&style=flat" alt="zameer-fatima" /> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Full Stack Development**
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **Full Stack Development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **zameerfatima1908@gmail.com**
 
