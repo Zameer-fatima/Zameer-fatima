@@ -14,7 +14,7 @@
 - 📫 How to reach me **zameerfatima1908@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
-- - 📄 **Know about my experiences** <a href="" target="blank">Resume</a>
+- - 📄 **Know about my experiences** <a href="https://github.com/Zameer-fatima/Zameer-fatima/blob/main/Zameer_Fatima_Resume_edit.pdf" target="blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
