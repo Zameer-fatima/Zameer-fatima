@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zameer Fatima</h1>
 <h3 align="center">A Passionate FullStack Developer from India</h3>
-<p align = "center">
+<p align = "right">
 <img  alt="coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 </p>
 
