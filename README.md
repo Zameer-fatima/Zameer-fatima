@@ -10,13 +10,13 @@
 
 - 👯 I’m looking to collaborate on **Development**
 
-- 👨‍💻 All of my projects are available at [https://zameer-portfolio.netlify.app/](https://zameer-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://zameer-portfolio.netlify.app/)
 
 - 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **zameerfatima1908@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yyhmqEoHZtrdkFC7yxbXxQH18nqs4mBq/view?usp=drive_link](https://drive.google.com/file/d/1yyhmqEoHZtrdkFC7yxbXxQH18nqs4mBq/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yyhmqEoHZtrdkFC7yxbXxQH18nqs4mBq/view?usp=drive_link)
 
 - ⚡ Fun fact **Code Conjurer**
 
